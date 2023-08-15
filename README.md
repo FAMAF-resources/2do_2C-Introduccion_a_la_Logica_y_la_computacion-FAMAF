@@ -29,13 +29,13 @@
 **https**
 
 ```bash
-git clone https://github.com/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
+git clone --recurse-submodules https://github.com/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
 ```
 
 **ssh (recomendado)**
 
 ```bash
-git clone git@github.com:FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
+git clone --recurse-submodules git@github.com:FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
 ```
 
 ## Update
