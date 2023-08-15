@@ -1,37 +1,58 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF)
 
 # Introduccion a la Logica y la Computacion - FAMAF - Computacion
 
 > 2C
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- Matematica Discreta I
-- Algoritmos y Estructuras de Datos II
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Matematica Discreta I   | Regularizada     |
+| Algoritmos y Estructuras de Datos I   | Regularizada     |
+| Introduccion a los Algoritmos   | Aprobada     |
 
-Es correlativa de:
+## Correlativas para **aprobar**
+
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Matematica Discreta I   | Aprobada     |
+| Algoritmos y Estructuras de Datos I   | Aprobada     |
+| Introduccion a los Algoritmos   | Aprobada     |
+
+## Es correlativa de:
 
 - Logica
 
 ## Clonar el repositorio
 
-> http
+**https**
 
 ```bash
-git clone https://github.com/FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
+git clone https://github.com/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
 ```
 
-> ssh
+**ssh (recomendado)**
 
 ```bash
-git clone git@github.com:FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
+git clone git@github.com:FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF.git
 ```
 
-# Contribuciones
+## Update
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
+```bash
+git pull && git submodule update --init --recursive
+```
+
+# ¿Cómo contribuir?
+
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF"/>
+<a href="https://github.com/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF" height="50"/>
 </a>
